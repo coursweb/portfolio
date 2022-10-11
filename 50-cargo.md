@@ -30,7 +30,7 @@ C’est possible, voir:
 
 **Méthode pour inviter des collaborateurs:**
 
-![Méthode pour entrer le code](img/Cargo-Invite-Editors.gif)
+![Inviter des collaborateurs](img/Cargo-Invite-Editors.gif)
 
 ### Utiliser son nom de domaine
 
