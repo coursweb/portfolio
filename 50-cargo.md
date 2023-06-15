@@ -21,7 +21,11 @@ Vous pouvez créer gratuitement créer un compte Cargo, et mette en place votre 
 
 ![Méthode pour entrer le code](img/Cargo-Enter-Promo-Code.gif)
 
-Si vous avez déjà publié le site et que vous voulez le mettre à jour ou le renouveler le code de rabais, il faut aller dans les paramètres du site, ensuite aller dans "Cargo Account Settings“, et ensuite dans “Site upgrade“. Dérouler le menu déroulant et cliquer dans “Add a payment method“.
+Si vous avez déjà publié le site et que vous voulez le mettre à jour ou le renouveler le code de rabais, il faut aller dans:
+
+Les paramètres du site > *Cargo Account Settings* > *Site Upgrade*. 
+
+Dérouler le menu déroulant et cliquer dans “Add a payment method“.
 
 ![2e Méthode pour entrer le code](img/Renouvelement_nom_de_Domaine.jpg)
 
