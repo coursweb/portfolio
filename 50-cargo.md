@@ -21,7 +21,7 @@ Vous pouvez créer gratuitement créer un compte Cargo, et mette en place votre 
 
 ![Méthode pour entrer le code](img/Cargo-Enter-Promo-Code.gif)
 
-Si vous avez déjà publié le site et que vous voulez le mettre à jour ou le renouveler le code de rabais, il faut aller dans:
+Si vous avez déjà publié le site et que vous voulez renouveler le code de rabais, il faut aller dans:
 
 Les paramètres du site > *Cargo Account Settings* > *Site Upgrade*. 
 
