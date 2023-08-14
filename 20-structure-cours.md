@@ -17,7 +17,7 @@ Il est donc important de restreindre le temps de classe dédié à ce projet, et
 - La prise en main du système de gestion (CMS).
 - L'évaluation (peer-review) des portfolios.
 
-La création de contenus pour le portfolio de l'élève devra se faire sur le temps personnel, en dehors du cours.
+La création de contenus pour le portfolio de l'élève devra se faire sur le temps personnel, en dehors du cours. C’est une bonne stratégie de faire le portfolio comme dernier projet du semestre, ainsi il y a une «hard deadline» non-négociable.
 
 ## Une structure possible
 
@@ -42,7 +42,7 @@ Options de CMS:
 
 ### 3) En fin de semestre
 
-Réalisation finale, peer-review. C’est une bonne stratégie de faire le portfolio comme dernier projet du semestre, ainsi il y a une «hard deadline» non-négociable.
+Réalisation finale, peer-review.
 
 ## Ressources pour enseignants
 
