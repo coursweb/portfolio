@@ -46,4 +46,4 @@ Réalisation finale, peer-review. C’est une bonne stratégie de faire le portf
 
 ## Ressources pour enseignants
 
-[Lien OneDrive vers documents](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/Eh0E_y-u04BAjNduAb9YVtsBk-_ocwr3eINJVZ46fxGVYw) (livre *Réussir son portfolio et son site web*, de Jonathan Munn, Pyramyd).
+[Lien OneDrive vers documents](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/Eh0E_y-u04BAjNduAb9YVtsBk-_ocwr3eINJVZ46fxGVYw) (livre *Réussir son portfolio et son site web*, de Jonathan Munn, Pyramyd, 2020).
