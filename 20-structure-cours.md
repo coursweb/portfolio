@@ -11,7 +11,7 @@ D'un côté, la plupart des élèves sont généralement très motivés par cett
 
 D'un autre côté, une fois le projet lancé, il y a un grand risque de dérive du cours vers la simple production de contenus: préparer des images, améliorer les images, rédiger des textes descriptifs... Le risque est grand que cela occupe tout le temps disponible.
 
-Il est donc recommandé de restreindre le temps de ce projet, et de focaliser sur le temps en classe sur:
+Il est donc important de restreindre le temps de classe dédié à ce projet, et de focaliser ce temps sur:
 
 - L'apprentissage des règles d'un bon portfolio.
 - La prise en main du système de gestion (CMS).
@@ -29,8 +29,8 @@ Leur donner également la consigne de collecter des exemples de portfolio, afin 
 
 Options de CMS:
 
-- [Cargo](https://cargo.site/Students)
-- [Portfoliobox](https://www.portfoliobox.net/fr/)
+- [Cargo](https://cargo.site/Students) - gratuit avec un code de réduction spécifique pour l'Eracom.
+- [Portfoliobox](https://www.portfoliobox.net/fr/) - gratuit pour les élèves via [cette page](https://www.portfoliobox.net/fr/students)
 - Adobe Portfolio : attention, ce n’est pas disponible avec la Creative Cloud K12.
 
 ### 2) En milieu de semestre
