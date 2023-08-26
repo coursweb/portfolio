@@ -9,7 +9,7 @@ Le portfolio personnel de l'élève est un projet assez délicat à mener comme 
 
 D'un côté, la plupart des élèves sont généralement très motivés par cette idée, et vont vous demander de consacrer des cours à cette réalisation.
 
-D'un autre côté, une fois le projet lancé, il y a un grand risque de dérive du cours vers la simple production de contenus: préparer des images, améliorer les images, rédiger des textes descriptifs... Le risque est grand que cela occupe tout le temps disponible.
+D'un autre côté, une fois le projet lancé, il y a un grand risque de dérive du cours vers la simple production de contenus: préparer des images, améliorer les images, rédiger des textes descriptifs... Souvent cela constitue 80% du temps de réalisation d'un portfolio. Le risque est grand que cela occupe une importante partie du temps d'enseignement, même si cela ne correspond pas aux objectifs du cours.
 
 Il est donc important de restreindre le temps de classe dédié à ce projet, et de focaliser ce temps sur:
 
