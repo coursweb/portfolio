@@ -8,7 +8,7 @@ Quelques conseils d'utilisation pour la plateforme Cargo.
 
 ## Liens importants
 
-- Infos sur le [Student Program](https://cargo.site/Students) (offre gratuite pour étudiants)
+- Infos sur le [Student Program](https://cargo.site/students) (offre gratuite pour étudiants)
 - Support technique: [https://support.cargo.site/](https://support.cargo.site/)
 
 ## Tutoriels
